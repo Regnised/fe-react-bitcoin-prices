@@ -1,0 +1,13 @@
+#user-input select {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #76c0ae;
+  border-radius: 0.25rem;
+  background-color: transparent;
+  color: #c2e9e0;
+  font-size: 1rem;
+}
+
+#user-input select option {
+  background-color: #1f5548;
+}
